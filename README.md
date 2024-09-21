@@ -1,6 +1,7 @@
 # Coffee-Shop-Sales
-This An End to End Excel Project that is Used by making all Possible Functionalities in the MS Excel including Dax Queries.
-This Dashboard Displays An Analysis on Coffee Shop Sales Data that displays key findings in this Dashboard.
+This is an end-to-end Excel project that utilizes all possible functionalities, including DAX queries in Microsoft Excel.
+
+The dashboard provides a comprehensive analysis of coffee shop sales data, representing key insights that aim to enhance business performance.
 
 💡𝗞𝗲𝘆 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀 (𝗮𝘀 𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝗲𝗱 𝗶𝗻 𝘁𝗵𝗲 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱):
 1. Sales Variation by Hour and Day.
